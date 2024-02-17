@@ -1,4 +1,4 @@
-# Unique SQL Employee Tracker
+# TeamTracker-Pro
 
 ## User Story
 
@@ -36,8 +36,6 @@ Create an application using mysql2 and inquirer, where, provided with a selectio
 
 ![img](./Assets/unique-sql-employee-tracker-screenshot.png)
 
-## Link to Video
-https://www.youtube.com/watch?v=9AJjRyGpiNw
 
 ## How to Run
 
